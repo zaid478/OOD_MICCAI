@@ -1,0 +1,23 @@
+2021-04-06 12:39:46,306 - Train-Logger - INFO - Starting the training phase
+2021-04-06 12:39:46,306 - Train-Logger - INFO - Early stopping is set using the number of epochs without improvement
+2021-04-06 12:39:46,306 - Train-Logger - INFO - The model will be trained from scratch
+2021-04-06 12:39:46,306 - Train-Logger - INFO - The training will be carry out using 1 GPU:
+2021-04-06 12:39:46,306 - Train-Logger - INFO - GeForce GTX 1080 Ti
+2021-04-06 12:41:07,119 - Train-Logger - INFO - Metrics for epoch 1 out of 150
+- Train
+-- Loss: 0.725
+-- Acc: 68.347
+
+
+- Validation
+-- Loss: 0.372
+-- Acc: 83.140
+
+-- AUC: 0.965
+
+- Training info
+-- Early stopping counting: 0 max to stop is 15
+-- Current LR: 0.001
+-- New best loss: 0.372
+-- Best loss so far: 0.372 on epoch 1
+
